@@ -31,7 +31,7 @@ class HelpBot:
                             \_____/\_________/ \__/
                            /           |             \
                          /            |                \
-            paket ismi(gerkli)    altpaket(eğer varsa)   fonkstion, class veya degisken
+            paket ismi(gerkli)    altpaket(eğer varsa)   fonksiyon, sınıf veya degisken
 
             ve geriye kullanımını döndürür. Eğer None ise bu __doc__'un boş olduğu anlamına
             gelir.
